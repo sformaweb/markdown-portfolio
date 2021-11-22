@@ -1,4 +1,3 @@
 * Programming
 * Nature
 * Reading
-* :smiley:
